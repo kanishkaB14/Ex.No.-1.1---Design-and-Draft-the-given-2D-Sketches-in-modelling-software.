@@ -16,33 +16,23 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+   <img width="483" height="802" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/679e8903-9b61-4ead-93c2-e93942963386" />
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+5.	
+    <img width="327" height="410" alt="Screenshot 2026-11-11 183524" src="https://github.com/user-attachments/assets/48e07c93-bbe2-415f-ab59-7fa2d213dbc3" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+6.	Use inspect feature to measure the dimensions of sketch.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+7.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
-
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
-
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
-
+8.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-
+<img width="1010" height="722" alt="Screenshot 2026-10-12 204323" src="https://github.com/user-attachments/assets/dc995f75-166e-4803-a0a9-e8b85d6d8c79" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
