@@ -13,29 +13,23 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+1.	Open new fi1. First, open Autodesk Fusion 360 and create a new design file.
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+2. Click on the Create Sketch option and select the required plane for drawing.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+3. Use the available sketch tools such as Line, Circle, Arc, Rectangle and Polygon to draw the given 2D sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+4. Make the necessary changes to the drawing using editing tools like Trim, Mirror, Move and other modifying options.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+5. Check the dimensions of the sketch using the Inspect tool and make sure they match the given drawing.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+6. After completing the sketch, click on Finish Sketch to save the completed sketch.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+7. Then, switch to the Drawing workspace and select the required settings to prepare the drawing according to ISO standards.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+8. Add the necessary dimensions and views to the drawing.
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+9. Finally, check the drawing and save the completed design
 
 
 ## SKETCHS
