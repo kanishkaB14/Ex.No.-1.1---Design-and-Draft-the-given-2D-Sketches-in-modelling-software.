@@ -13,7 +13,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new fi1. First, open Autodesk Fusion 360 and create a new design file.
+1.	First, open Autodesk Fusion 360 and create a new design file.
 
 2. Click on the Create Sketch option and select the required plane for drawing.
 
